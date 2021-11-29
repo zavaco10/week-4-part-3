@@ -66,6 +66,6 @@ __Using Array built-in functions!__
   - Return the item removed or `null` if the item was not found
 
 ## Assignment Submission
-Check in your repo, then turn in your work via the Prime Academy Assignment Application at http://primeacademy.io, as usual and don't hesitate to hit up the Slack channel as needed!
+Check in your repo, then turn in your work via the EDA Assignment Portal, as usual and don't hesitate to hit up the Slack channel as needed!
 
 **REMINDER:** Make sure to answer the Slack discussion question for this week!
